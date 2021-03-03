@@ -2,7 +2,7 @@
 
 Question:
 
-Mani doesn’t know whether the bracket in an expression is balanced or not. Develop a coding to help him to find the expression is balanced or not.
+3. Mani doesn’t know whether the bracket in an expression is balanced or not. Develop a coding to help him to find the expression is balanced or not.
 
 Input Description:
 
